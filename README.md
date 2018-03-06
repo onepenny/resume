@@ -149,4 +149,7 @@
 [前端开发工作流]:http://yhtml5.com/YHTML5-Seed/
 [洋葱官网]:http://yhtml5.com
 
-
+# 新增简历方法
+- src/pages下新增文件夹
+- compile
+- 发布目录下index.html拷贝至根文件夹
